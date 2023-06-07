@@ -14,7 +14,7 @@ git clone https://github.com/your-username/chest-xrays-covid19.git
 2. Install the necessary dependencies. You can use `pip` to install them:
 -it is necessary to use Anaconda distribution in the local Machine it contains most ML inbuild Libraries which will otherwise be installed by pip one after the other.
 pip install -r requirements.txt
-3.For the sake of the computation complexity of CNN algorithm the local CPU is slower Compared to the GPU of the Google Colab which as well doesn’t not need the installation dependencies. for the Colab you can access the stored chest Chest X-rays dataset by two ways:
+3.For the sake of the computation complexity of CNN algorithm the local CPU is slower Compared to the GPU of the Google Colab which as well doesnâ€™t not need the installation dependencies. for the Colab you can access the stored chest Chest X-rays dataset by two ways:
 a) by using the Script from google.drive import drive 
 b) by manually clicking the file file icon and mount 
 4. Download the dataset from the provided Google Drive link: and place it in the appropriate directory in the project.
