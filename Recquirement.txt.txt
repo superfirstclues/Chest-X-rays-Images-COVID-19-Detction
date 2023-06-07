@@ -1,0 +1,26 @@
+Requirements for Model 
+Tensorflow
+Glob
+Numpy
+Keras
+Pandas
+Matplotlib
+Cv2
+Os
+Tdm
+Sklearn
+Pillow
+Shutil
+Imutils
+Random
+Itertools
+pandas
+
+Requirements for Webapp
+Streamlit
+Numpy
+Matplotlib
+Cv2
+Tensorflow
+
+
